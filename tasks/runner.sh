@@ -1,0 +1,1 @@
+# celery -A test worker -l INFO  --concurrency 1 -n app2
